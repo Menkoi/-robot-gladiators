@@ -1,0 +1,1 @@
+window.alert("this is a alert test java is running");
